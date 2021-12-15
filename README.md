@@ -1,6 +1,6 @@
 ### "Don't panic"
-<!-- <img align="right" title="dont panic" alt="don't panic" src="/images/boo.svg"> -->
-![don't panic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F8faa1a12225183.562654f31f78a.gif&f=1&nofb=1)
+<img align="right" title="dont panic" alt="don't panic" src="/images/dont_panic.gif">
+<!-- ![don't panic](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F8faa1a12225183.562654f31f78a.gif&f=1&nofb=1) -->
 
 
 <!--
